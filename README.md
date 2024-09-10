@@ -1,4 +1,4 @@
-# Projeto de Prática com React Native
+# Projeto de Prática com React Native.
 
 Este projeto foi desenvolvido para praticar e aprimorar meus conhecimentos em React Native. O foco principal foi explorar e utilizar os componentes `Picker`, `Slider` e `Switch`.
 
